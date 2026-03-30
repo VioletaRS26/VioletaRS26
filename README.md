@@ -46,7 +46,9 @@ Sou **Engenheira de Software** formada, com experiência em **desenvolvimento Fu
 ## Contato & Redes
 - ✉️ Email: svioleta1002@gmail.com 
 - 🔗 LinkedIn: [linkedin.com/in/violeta-rocha](https://www.linkedin.com/in/violeta-rocha/)  
-- 🔗 GitHub: [https://github.com/VioletaRS26](https://github.com/VioletaRS26) 
+- 🔗 GitHub: [https://github.com/VioletaRS26](https://github.com/VioletaRS26)
+  
+**Me adicione no LinkedIn!**
 
 ---
 
@@ -81,22 +83,12 @@ Sou **Engenheira de Software** formada, com experiência em **desenvolvimento Fu
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas de Atividade
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats Atividade" 
+    src="https://ghstats.dev/api/card?username=VioletaRS26&theme=tokyonight&show_icons=true&hide=stars,prs,issues,forks&locale=pt-br"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
+
